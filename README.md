@@ -1,63 +1,23 @@
-# Olá, eu sou a Tsichero! 👋 | Hello, I'm Tsichero! 👋
+# Tsichero 👋  
+Médica Veterinária em transição de carreira para **IA & Análise de Dados** | Apaixonada por **Machine Learning, Automação & Insights**  
+Veterinarian in career transition to **AI & Data Analysis** | Passionate about **Machine Learning, Automation & Insights**
 
-Sou Médica Veterinária em transição de carreira para **Inteligência Artificial e Ciência de Dados**.  
-I am a Veterinarian transitioning my career into **Artificial Intelligence & Data Science**.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tain%C3%A3%20Sichero-blue?style=flat-square&logo=linkedin)](https://br.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149) 
-[![GitHub](https://img.shields.io/badge/GitHub-tsichero-black?style=flat-square&logo=github)](https://github.com/tsichero)
 
 ---
 
-## 🔭 Atualmente / Currently Working On
-- Projetos de **Machine Learning e Deep Learning**  
-- Desenvolvimento de **Chatbots inteligentes**  
-- Criação de marcas e imagens com **Gemini**  
-- Análise de dados com **Python**, **SQL** e **Power BI**  
-- Applied AI for process automation and optimization
-
-## 🌱 Aprendizado / Learning
-- Modelos avançados de **IA e NLP (Natural Language Processing)**  
-- **Microsoft Azure AI** e deploy em nuvem  
-- Técnicas de **Data Engineering**
+### 🇧🇷 Português
+**Atualmente:** Machine Learning, Deep Learning, Chatbots Inteligentes, Gemini, Python, SQL, Power BI  
+**Habilidades Técnicas:** ![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-blue) ![GitHub](https://img.shields.io/badge/GitHub-blue) ![Azure](https://img.shields.io/badge/Azure-blue) ![ML](https://img.shields.io/badge/ML-blue) ![DL](https://img.shields.io/badge/DL-blue) ![NLP](https://img.shields.io/badge/NLP-blue) ![Chatbots](https://img.shields.io/badge/Chatbots-blue) ![Gemini](https://img.shields.io/badge/Gemini-blue) ![ChatGPT](https://img.shields.io/badge/ChatGPT-blue) ![LeonardoAI](https://img.shields.io/badge/LeonardoAI-blue) ![Runway](https://img.shields.io/badge/Runway-blue)  
+**Soft Skills:** ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-blue) ![Pensamento Analítico](https://img.shields.io/badge/Pensamento%20Analítico-blue) ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-blue) ![Comunicação](https://img.shields.io/badge/Comunicação-blue) ![Criatividade](https://img.shields.io/badge/Criatividade-blue) ![Liderança & Mentoria](https://img.shields.io/badge/Liderança%20&%20Mentoria-blue) ![Organização](https://img.shields.io/badge/Organização-blue) ![Curiosidade](https://img.shields.io/badge/Curiosidade-blue)  
+**Projetos:** Chatbot Inteligente, Análise Preditiva Veterinária, Criação de Marca com IA  
+**Contato:** [GitHub](https://github.com/tsichero) | [LinkedIn](https://br.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149)
 
 ---
 
-## 💻 Skills & Competências
+### 🇬🇧 English
+**Currently:** Machine Learning, Deep Learning, Intelligent Chatbots, Gemini, Python, SQL, Power BI  
+**Technical Skills:** ![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-blue) ![GitHub](https://img.shields.io/badge/GitHub-blue) ![Azure](https://img.shields.io/badge/Azure-blue) ![ML](https://img.shields.io/badge/ML-blue) ![DL](https://img.shields.io/badge/DL-blue) ![NLP](https://img.shields.io/badge/NLP-blue) ![Chatbots](https://img.shields.io/badge/Chatbots-blue) ![Gemini](https://img.shields.io/badge/Gemini-blue) ![ChatGPT](https://img.shields.io/badge/ChatGPT-blue) ![LeonardoAI](https://img.shields.io/badge/LeonardoAI-blue) ![Runway](https://img.shields.io/badge/Runway-blue)  
+**Soft Skills:** ![Adaptability](https://img.shields.io/badge/Adaptability-blue) ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-blue) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-blue) ![Communication](https://img.shields.io/badge/Communication-blue) ![Creativity](https://img.shields.io/badge/Creativity-blue) ![Leadership & Mentoring](https://img.shields.io/badge/Leadership%20&%20Mentoring-blue) ![Organization](https://img.shields.io/badge/Organization-blue) ![Curiosity](https://img.shields.io/badge/Curiosity-blue)  
+**Projects:** Intelligent Chatbot, Predictive Veterinary Analysis, AI-based Branding  
+**Contact:** [GitHub](https://github.com/tsichero) | [LinkedIn](https://br.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149)
 
-### Linguagens & Ferramentas / Programming & Tools
-- **Python** ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-80%25-brightgreen)
-- **Power BI** ![Power BI](https://img.shields.io/badge/Power%20BI-75%25-brightgreen)
-- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-85%25-brightgreen)
-- **Microsoft Azure** ![Azure](https://img.shields.io/badge/Azure-70%25-brightgreen)
-
-### Inteligência Artificial / AI & Machine Learning
-- **Machine Learning** ![ML](https://img.shields.io/badge/ML-85%25-brightgreen)
-- **Deep Learning** ![DL](https://img.shields.io/badge/DL-80%25-brightgreen)
-- **NLP** ![NLP](https://img.shields.io/badge/NLP-70%25-brightgreen)
-- **Chatbots** ![Chatbots](https://img.shields.io/badge/Chatbots-75%25-brightgreen)
-- **Gemini (Brands & Images)** ![Gemini](https://img.shields.io/badge/Gemini-65%25-brightgreen)
-
-### Ciência de Dados / Data Science
-- **Data Analysis** ![Data Analysis](https://img.shields.io/badge/Data_Analysis-85%25-brightgreen)
-- **Visualization** ![Visualization](https://img.shields.io/badge/Visualization-80%25-brightgreen)
-- **Statistics** ![Statistics](https://img.shields.io/badge/Statistics-75%25-brightgreen)
-
-### Mentoria & Consultoria / Mentoring & Consulting
-- **AI Mentoring** ![AI Mentoring](https://img.shields.io/badge/AI_Mentoring-80%25-brightgreen)
-- **AI Consulting** ![AI Consulting](https://img.shields.io/badge/AI_Consulting-75%25-brightgreen)
-
----
-
-## 👯 Aberta a colaborar / Open to collaborate on
-- Projetos de IA e Data Science / AI & Data Science projects  
-- Pesquisa em Inteligência Artificial / Research in Artificial Intelligence  
-- Dashboards interativos e automação de dados / Interactive dashboards & automation  
-- Criação de marcas e imagens com IA / Brand & image creation with AI  
-- Mentoria e consultoria em IA / Mentoring & AI consulting  
-
----
-
-## ⚡ Curiosidade / Fun Fact
-Apesar de ter começado minha carreira como Médica Veterinária, descobri que minha verdadeira paixão está em **resolver problemas complexos usando dados e tecnologia**.  
-Even though I started my career as a Veterinarian, I discovered my true passion is **solving complex problems using data and technology**.
