@@ -60,7 +60,7 @@ Entre em contato comigo para colaborações, dúvidas ou parcerias:
 ### Redes & Portfólio
 - [GitHub](https://github.com/tsichero)  
 - [LinkedIn](https://www.linkedin.com/in/tainã-sichero-dulcetti-65270b149)  
-- [Instagram Pessoal](https://www.instagram.com/tataaiworld/)  
+- [Instagram de Tech](https://www.instagram.com/tataaiworld/)  
 - [Instagram Veterinária](https://www.instagram.com/veterinariasouanimal/)
 
 ---
