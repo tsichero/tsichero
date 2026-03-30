@@ -1,8 +1,8 @@
 # 🚀 Tsichero 👩‍💻
 
-**Médica Veterinária | Especialista em Inteligência Artificial | Tech & Veterinary Influencer**  
+**Médica Veterinária | Especialista em Inteligência Artificial | Influenciadora Tech & Veterinary**  
 
-> Transformando conhecimento clínico em tecnologia, conteúdo e projetos que conectam Veterinária e IA.  
+> Transformando conhecimento clínico em tecnologia, conteúdo e projetos que conectam Veterinária e IA.
 
 ---
 
@@ -74,3 +74,10 @@ Entre em contato comigo para colaborações, dúvidas ou parcerias:
 ---
 
 **Licença**: MIT
+
+---
+
+### Mensagem de Commit
+
+```text
+Atualização README: versão Tsichero completa, confidencial e estilo tech influencer feminina
