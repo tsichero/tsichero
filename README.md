@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Sobre o Tsichero
+## ✨ Sobre a Tsichero
 
 Este repositório é o **hub central dos meus projetos**, combinando:
 
@@ -41,7 +41,7 @@ Aqui você encontra códigos, scripts, protótipos, documentos e demonstrações
 
 ---
 
-## 🌟 Benefícios do Tsichero Hub
+## 🌟 Benefícios da Tsichero Hub
 
 - Centraliza **todos meus projetos de IA e Veterinária**  
 - Permite **acesso a protótipos, códigos e documentação completa**  
