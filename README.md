@@ -1,83 +1,93 @@
-# 🚀 Tsichero 👩‍💻
+# Tsichero AI Lab 👩‍💻
 
-**Médica Veterinária | Especialista em Inteligência Artificial | Influenciadora Tech & Veterinary**  
+### Veterinarian • AI Specialist • Data Science Student • Tech Educator
 
-> Transformando conhecimento clínico em tecnologia, conteúdo e projetos que conectam Veterinária e IA.
-
----
-
-## ✨ Sobre a Tsichero
-
-Este repositório é o **hub central dos meus projetos**, combinando:
-
-- Inteligência Artificial aplicada à Veterinária  
-- Projetos educativos para estudantes e profissionais  
-- Automação e simulação de protocolos clínicos  
-- Conteúdo digital e consultoria em IA para negócios  
-
-Aqui você encontra códigos, scripts, protótipos, documentos e demonstrações dos meus projetos mais recentes, tudo voltado para **inovação em saúde animal e tecnologia aplicada**.
+Building intelligent solutions that connect Veterinary Medicine, Artificial Intelligence and Healthcare Innovation.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## About
 
-- Python 🐍 – automação, análise de dados, IA  
-- Jupyter / VS Code – desenvolvimento e notebooks interativos  
-- GitHub Actions – CI/CD e automações  
-- APIs de IA – integração com modelos de linguagem e visão computacional  
-- Frameworks: TensorFlow, PyTorch, scikit-learn  
+Tsichero AI Lab is the central hub for my projects involving:
 
-> Tudo pensado para **desenvolver soluções práticas e inovadoras** no ecossistema veterinário.
+* Artificial Intelligence applied to Veterinary Medicine
+* Clinical workflow automation
+* Educational platforms for students and professionals
+* Computer Vision and Generative AI applications
+* Intelligent healthcare and data-driven solutions
 
----
-
-## 🚀 Projetos em Destaque
-
-- **Plataformas de IA para veterinários e estudantes** – Sistemas que auxiliam em anamnese, protocolos e aprendizado clínico  
-- **Simuladores de exames** – Ferramentas interativas para treinamento em equipamentos de imagem (tomografia, ressonância)  
-- **Conteúdo educativo** – Scripts e ferramentas para estudo e revisão de Medicina Veterinária  
-
-> Cada projeto é acompanhado de documentação, exemplos de uso e recomendações de implementação.
+This repository brings together prototypes, experiments, educational tools and AI-powered systems designed to make veterinary technology more accessible, innovative and scalable.
 
 ---
 
-## 🌟 Benefícios da Tsichero Hub
+## Tech Stack
 
-- Centraliza **todos meus projetos de IA e Veterinária**  
-- Permite **acesso a protótipos, códigos e documentação completa**  
-- Oferece **recursos educativos** para estudantes e profissionais  
-- Mostra **impacto tecnológico e inovação clínica**  
-
----
-
-## 📬 Contato
-
-Entre em contato comigo para colaborações, dúvidas ou parcerias:
-
-- 📧 Email: mmbjjs@gmail.com  
-- 📞 WhatsApp: +55 11 98841-9090  
-
-### Redes & Portfólio
-- [GitHub](https://github.com/tsichero)  
-- [LinkedIn](https://www.linkedin.com/in/tainã-sichero-dulcetti-65270b149)  
-- [Instagram de Tech](https://www.instagram.com/tataaiworld/)  
-- [Instagram Veterinária](https://www.instagram.com/veterinariasouanimal/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
-## 💡 Próximos Passos
+## Featured Projects
 
-- Integrar GIFs e imagens das interfaces dos projetos  
-- Adicionar badges de build, testes e cobertura de código  
-- Criar roadmap detalhado e seção de contribuição para a comunidade  
+### 🧠 AI Clinical Assistant
+
+AI-powered support system for veterinary anamnesis, clinical workflows and intelligent protocols.
+
+### 🩻 Imaging Simulation Platform
+
+Interactive simulation environment for tomography, MRI and diagnostic imaging training.
+
+### 📚 Veterinary Education Hub
+
+Digital educational ecosystem with summaries, clinical cases and intelligent study tools for veterinary students and professionals.
+
+### 👁️ Computer Vision for Healthcare
+
+Projects focused on image processing, pattern recognition and AI-assisted medical analysis using Python and OpenCV.
 
 ---
 
-**Licença**: MIT
+## Goals
+
+* Democratize AI in Veterinary Medicine
+* Create accessible educational technologies
+* Develop scalable healthcare intelligence systems
+* Bridge clinical expertise with technological innovation
 
 ---
 
-### Mensagem de Commit
+## Connect With Me
 
-```text
-Atualização README: versão Tsichero completa, confidencial e estilo tech influencer feminina
+📧 E-mail: [mmbjjs@gmail.com](mailto:mmbjjs@gmail.com)
+
+* LinkedIn
+* GitHub
+* Instagram Tech
+* Veterinary Instagram
+
+---
+
+## Roadmap
+
+* Add project demos and interface GIFs
+* Implement CI/CD workflows and automated testing
+* Publish datasets and documentation
+* Create contribution guidelines for the community
+* Expand AI simulation environments
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Final Message
+
+> “Building the future of Veterinary Medicine with Artificial Intelligence.”
