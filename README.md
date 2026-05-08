@@ -36,7 +36,7 @@ This repository brings together prototypes, experiments, educational tools and A
 
 ### 🧠 AI Clinical Assistant
 
-AI-powered support system for veterinary anamnesis, clinical workflows and intelligent protocols.
+AI-powered support systems for veterinary anamnesis, intelligent protocols and clinical workflow optimization.
 
 ### 🩻 Imaging Simulation Platform
 
@@ -44,17 +44,17 @@ Interactive simulation environment for tomography, MRI and diagnostic imaging tr
 
 ### 📚 Veterinary Education Hub
 
-Digital educational ecosystem with summaries, clinical cases and intelligent study tools for veterinary students and professionals.
+Digital educational ecosystem with summaries, clinical cases and AI-assisted study tools.
 
 ### 👁️ Computer Vision for Healthcare
 
-Projects focused on image processing, pattern recognition and AI-assisted medical analysis using Python and OpenCV.
+Projects focused on image processing, pattern recognition and intelligent healthcare analysis using Python and OpenCV.
 
 ---
 
 ## Goals
 
-* Democratize AI in Veterinary Medicine
+* Democratize Artificial Intelligence in Veterinary Medicine
 * Create accessible educational technologies
 * Develop scalable healthcare intelligence systems
 * Bridge clinical expertise with technological innovation
@@ -65,20 +65,19 @@ Projects focused on image processing, pattern recognition and AI-assisted medica
 
 📧 E-mail: [mmbjjs@gmail.com](mailto:mmbjjs@gmail.com)
 
-* LinkedIn
-* GitHub
-* Instagram Tech
-* Veterinary Instagram
+* LinkedIn: [www.linkedin.com/in/tainã-sichero-dulcetti-65270b149](http://www.linkedin.com/in/tainã-sichero-dulcetti-65270b149)
+* Tech Instagram: @tataaiworld
+* Veterinary Instagram: @veterinariasouanimal
 
 ---
 
 ## Roadmap
 
-* Add project demos and interface GIFs
+* Add project demos and animated interface GIFs
 * Implement CI/CD workflows and automated testing
-* Publish datasets and documentation
+* Publish datasets and technical documentation
 * Create contribution guidelines for the community
-* Expand AI simulation environments
+* Expand AI simulation environments for healthcare education
 
 ---
 
@@ -91,3 +90,4 @@ MIT License
 ## Final Message
 
 > “Building the future of Veterinary Medicine with Artificial Intelligence.”
+
