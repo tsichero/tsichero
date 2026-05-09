@@ -71,13 +71,7 @@ Projects focused on image processing, pattern recognition and intelligent health
 
 ---
 
-## Roadmap
 
-* Add project demos and animated interface GIFs
-* Implement CI/CD workflows and automated testing
-* Publish datasets and technical documentation
-* Create contribution guidelines for the community
-* Expand AI simulation environments for healthcare education
 
 ---
 
