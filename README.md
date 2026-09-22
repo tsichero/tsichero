@@ -1,87 +1,154 @@
-# Tsichero AI Lab 👩‍💻
+# 👩🏻‍💻 Tainã Sichero Dulcetti
 
-### Veterinarian • AI Specialist • Data Science Student • Tech Educator
+### AI & Data Developer | AI Specialist | Generative AI & Machine Learning
 
-Building intelligent solutions that connect Veterinary Medicine, Artificial Intelligence and Healthcare Innovation.
-
----
-
-## About
-
-Tsichero AI Lab is the central hub for my projects involving:
-
-* Artificial Intelligence applied to Veterinary Medicine
-* Clinical workflow automation
-* Educational platforms for students and professionals
-* Computer Vision and Generative AI applications
-* Intelligent healthcare and data-driven solutions
-
-This repository brings together prototypes, experiments, educational tools and AI-powered systems designed to make veterinary technology more accessible, innovative and scalable.
+> Building AI and data-driven solutions that connect technology, context and real-world problems.
 
 ---
 
-## Tech Stack
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+I am an **AI & Data Developer** and **AI Specialist**, with an MBA in Artificial Intelligence for Business and an ongoing degree in Data Science.
 
----
+My work focuses on the intersection of:
 
-## Featured Projects
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 LLMs, RAG & NLP
+* 📊 Data Science & Predictive Analytics
+* ⚙️ Intelligent Automation
+* 💻 Software & API Development
+* 💼 AI applied to Business
 
-### 🧠 AI Clinical Assistant
+I work on projects from problem definition and solution architecture to development, integration and validation.
 
-AI-powered support systems for veterinary anamnesis, intelligent protocols and clinical workflow optimization.
-
-### 🩻 Imaging Simulation Platform
-
-Interactive simulation environment for tomography, MRI and diagnostic imaging training.
-
-### 📚 Veterinary Education Hub
-
-Digital educational ecosystem with summaries, clinical cases and AI-assisted study tools.
-
-### 👁️ Computer Vision for Healthcare
-
-Projects focused on image processing, pattern recognition and intelligent healthcare analysis using Python and OpenCV.
+My background as a **Médica Veterinária** adds domain expertise to my technical background, allowing me to approach real-world problems from both a technology and domain perspective.
 
 ---
 
-## Goals
+## 🚀 What I Build
 
-* Democratize Artificial Intelligence in Veterinary Medicine
-* Create accessible educational technologies
-* Develop scalable healthcare intelligence systems
-* Bridge clinical expertise with technological innovation
+### 🤖 Generative AI & LLMs
+
+* LLM applications
+* RAG systems
+* Prompt Engineering
+* AI assistants
+* Knowledge-based AI systems
+
+### 📊 Data & Machine Learning
+
+* Data analysis
+* Predictive analytics
+* Machine Learning
+* NLP
+* Data-driven decision support
+* Business Intelligence
+
+### ⚙️ AI & Automation
+
+* Intelligent workflows
+* Python automation
+* API integrations
+* AI-powered business processes
+* Workflow optimization
+
+### 💻 Software & APIs
+
+* Python applications
+* FastAPI
+* REST APIs
+* Backend development
+* AI service integrations
 
 ---
 
-## Connect With Me
+## 🧩 Featured Work
 
-📧 E-mail: [mmbjjs@gmail.com](mailto:mmbjjs@gmail.com)
+My GitHub brings together projects, experiments and studies across **Artificial Intelligence, Data and software development**.
 
-* LinkedIn: [www.linkedin.com/in/tainã-sichero-dulcetti-65270b149](http://www.linkedin.com/in/tainã-sichero-dulcetti-65270b149)
-* Tech Instagram: @tataaiworld
-* Veterinary Instagram: @veterinariasouanimal
+### 🐾 Applied AI
+
+Projects exploring the application of Artificial Intelligence to real-world problems, including veterinary and healthcare contexts.
+
+### 🧠 Generative AI
+
+Experiments and applications involving LLMs, RAG, NLP and AI-powered systems.
+
+### 📊 Data & Analytics
+
+Projects involving data analysis, predictive approaches, visualization and decision-support solutions.
+
+### ⚙️ Automation
+
+Python-based automation, APIs and intelligent workflows designed to connect systems and reduce repetitive processes.
 
 ---
 
+## 🛠️ Tech Stack
 
+**AI & Data**
+
+`Python` `Machine Learning` `Generative AI` `LLMs` `RAG` `NLP` `SQL` `Predictive Analytics`
+
+**Development**
+
+`FastAPI` `REST APIs` `Backend Development` `JavaScript` `React`
+
+**Cloud & Automation**
+
+`Microsoft Azure` `APIs` `Automation` `AI Services`
+
+**Analytics**
+
+`Power BI` `Data Analysis` `Business Intelligence`
 
 ---
 
-## License
+## 🎯 Current Focus
 
-MIT License
+I am currently expanding my work in:
+
+* Generative AI
+* LLM-based applications
+* RAG architectures
+* AI Agents
+* Machine Learning
+* Data Science
+* AI Engineering
+* Intelligent Automation
+* AI applied to Business
+* Scalable AI solutions
 
 ---
 
-## Final Message
+## 🔬 AI + Domain Knowledge
 
-> “Building the future of Veterinary Medicine with Artificial Intelligence.”
+My background in Veterinary Medicine is an important part of my approach to technology.
+
+I am particularly interested in building solutions where **domain expertise, data and Artificial Intelligence** can work together to solve complex real-world problems.
+
+This perspective also guides my work on applied AI projects in veterinary and healthcare contexts.
+
+---
+
+## 🌐 Explore My Work
+
+🔗 **Portfolio:**
+https://tsichero.github.io/tsichero.github.io-portfolio-ai/
+
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149/
+
+---
+
+## 🤝 Let's Connect
+
+I am open to connecting with professionals, companies and teams working with:
+
+**Artificial Intelligence • Generative AI • Data Science • Machine Learning • AI Engineering • Automation • Data & AI**
+
+---
+
+### 🚀 Building with AI. Growing with Data. Solving real problems.
+
 
