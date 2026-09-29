@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Tainã Sichero Dulcetti
 
-### AI & Data Developer | AI Specialist | Generative AI & Machine Learning
+### AI & Data Developer · AI Specialist · Generative AI & Machine Learning
 
-> Building AI and data-driven solutions that connect technology, context and real-world problems.
+> Building practical AI and data solutions from real problems to working software, evaluation and evidence.
 
 ---
 
@@ -10,77 +10,103 @@
 
 I am an **AI & Data Developer** and **AI Specialist**, with an MBA in Artificial Intelligence for Business and an ongoing degree in Data Science.
 
-My work focuses on the intersection of:
+My work sits at the intersection of:
 
-* 🤖 Artificial Intelligence & Generative AI
-* 🧠 LLMs, RAG & NLP
-* 📊 Data Science & Predictive Analytics
-* ⚙️ Intelligent Automation
-* 💻 Software & API Development
-* 💼 AI applied to Business
+- 🤖 **Generative AI & LLMs**
+- 🧠 **RAG, NLP & Prompt Engineering**
+- 📊 **Data Science, Analytics & Machine Learning**
+- 💻 **Python, FastAPI & REST APIs**
+- ⚙️ **Automation, AI Agents & integrations**
+- ☁️ **Cloud, Docker & AI applications**
+- 💼 **AI applied to real business problems**
 
-I work on projects from problem definition and solution architecture to development, integration and validation.
+I build projects across the full path from **problem definition → architecture → implementation → evaluation → evidence**.
 
-My background as a **Médica Veterinária** adds domain expertise to my technical background, allowing me to approach real-world problems from both a technology and domain perspective.
+My background as a **Médica Veterinária** adds domain expertise to my technical work, giving me a practical perspective on how technology, data and domain knowledge can come together to solve real-world problems.
 
 ---
 
 ## 🚀 What I Build
 
-### 🤖 Generative AI & LLMs
+### 🤖 Generative AI & LLM Engineering
 
-* LLM applications
-* RAG systems
-* Prompt Engineering
-* AI assistants
-* Knowledge-based AI systems
+- LLM-based applications
+- RAG and retrieval systems
+- Prompt Engineering
+- Grounded AI applications
+- AI assistants and knowledge-based systems
+- Evaluation and validation workflows
 
 ### 📊 Data & Machine Learning
 
-* Data analysis
-* Predictive analytics
-* Machine Learning
-* NLP
-* Data-driven decision support
-* Business Intelligence
+- Data analysis
+- Predictive analytics
+- Machine Learning
+- NLP
+- Data pipelines and indicators
+- Business Intelligence and decision support
 
-### ⚙️ AI & Automation
+### 💻 AI Applications & APIs
 
-* Intelligent workflows
-* Python automation
-* API integrations
-* AI-powered business processes
-* Workflow optimization
+- Python applications
+- FastAPI
+- REST APIs
+- Backend services
+- AI service integrations
+- Structured application architecture
 
-### 💻 Software & APIs
+### ⚙️ Automation & AI Agents
 
-* Python applications
-* FastAPI
-* REST APIs
-* Backend development
-* AI service integrations
+- Intelligent workflows
+- Python automation
+- API integrations
+- Deterministic agent orchestration
+- Tool-based workflows
+- Process automation
+
+### ☁️ Cloud & Infrastructure
+
+- Docker
+- Microsoft Azure
+- Environment-based configuration
+- Application readiness and observability
+- Cloud-oriented AI application architecture
 
 ---
 
 ## 🧩 Featured Work
 
-My GitHub brings together projects, experiments and studies across **Artificial Intelligence, Data and software development**.
+My GitHub contains **public projects with technical evidence**, covering AI Engineering, Data, backend development, automation and experimentation.
 
-### 🐾 Applied AI
+### 🧠 AI Engineering
 
-Projects exploring the application of Artificial Intelligence to real-world problems, including veterinary and healthcare contexts.
+Projects focused on retrieval, grounding, evaluation, model integration, AI applications and agent orchestration.
 
-### 🧠 Generative AI
+- **AI Project Engineering**
+- **AI Agent Orchestration**
+- **Cloud AI Platform**
 
-Experiments and applications involving LLMs, RAG, NLP and AI-powered systems.
+### ✍️ Prompt Engineering
 
-### 📊 Data & Analytics
+Systematic prompt evaluation with structured criteria, reproducible tests and automated evaluation.
 
-Projects involving data analysis, predictive approaches, visualization and decision-support solutions.
+- **Prompt Engineering**
 
-### ⚙️ Automation
+### 📊 Data & Backend
 
-Python-based automation, APIs and intelligent workflows designed to connect systems and reduce repetitive processes.
+Projects demonstrating practical development with data pipelines, analytics, APIs and persistence.
+
+- **Data Analytics Engineering**
+- **FastAPI Backend API**
+- **Data Automation**
+
+### 🔎 RAG & LLM Engineering
+
+Experiments with retrieval, context selection, prompts, evaluation and LLM integration.
+
+- **RAG & LLM Engineering**
+
+For the complete project collection and technical evidence, visit my portfolio.
 
 ---
 
@@ -88,15 +114,19 @@ Python-based automation, APIs and intelligent workflows designed to connect syst
 
 **AI & Data**
 
-`Python` `Machine Learning` `Generative AI` `LLMs` `RAG` `NLP` `SQL` `Predictive Analytics`
+`Python` `Machine Learning` `Generative AI` `LLMs` `RAG` `NLP` `SQL` `Pandas` `Predictive Analytics`
 
 **Development**
 
-`FastAPI` `REST APIs` `Backend Development` `JavaScript` `React`
+`FastAPI` `REST APIs` `Backend Development` `Git` `GitHub` `Pytest`
 
-**Cloud & Automation**
+**Cloud & Infrastructure**
 
-`Microsoft Azure` `APIs` `Automation` `AI Services`
+`Microsoft Azure` `Docker` `APIs` `Cloud` `Observability`
+
+**Automation & AI**
+
+`n8n` `Prompt Engineering` `AI Agents` `Workflow Automation`
 
 **Analytics**
 
@@ -106,38 +136,37 @@ Python-based automation, APIs and intelligent workflows designed to connect syst
 
 ## 🎯 Current Focus
 
-I am currently expanding my work in:
+I am currently deepening my work in:
 
-* Generative AI
-* LLM-based applications
-* RAG architectures
-* AI Agents
-* Machine Learning
-* Data Science
-* AI Engineering
-* Intelligent Automation
-* AI applied to Business
-* Scalable AI solutions
+- Generative AI
+- LLM-based applications
+- RAG architectures
+- AI Engineering
+- AI Agents and orchestration
+- Machine Learning
+- Data Science
+- Prompt Engineering
+- Intelligent Automation
+- Cloud-based AI applications
+- Evaluation and reliability of AI systems
 
 ---
 
 ## 🔬 AI + Domain Knowledge
 
-My background in Veterinary Medicine is an important part of my approach to technology.
+My background in **Veterinary Medicine** is an important part of my approach to technology.
 
-I am particularly interested in building solutions where **domain expertise, data and Artificial Intelligence** can work together to solve complex real-world problems.
+I am particularly interested in building solutions where **domain expertise, data and Artificial Intelligence** work together to address complex real-world problems.
 
-This perspective also guides my work on applied AI projects in veterinary and healthcare contexts.
+This perspective also guides my work on confidential applied-AI initiatives in the veterinary domain, while public technical projects demonstrate the engineering foundations behind my approach.
 
 ---
 
 ## 🌐 Explore My Work
 
-🔗 **Portfolio:**
-https://tsichero.github.io/tsichero.github.io-portfolio-ai/
+🔗 **Portfolio:** https://tsichero.github.io/tsichero.github.io-portfolio-ai/
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149/
+🔗 **LinkedIn:** https://www.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149/
 
 ---
 
@@ -145,10 +174,8 @@ https://www.linkedin.com/in/tain%C3%A3-sichero-dulcetti-65270b149/
 
 I am open to connecting with professionals, companies and teams working with:
 
-**Artificial Intelligence • Generative AI • Data Science • Machine Learning • AI Engineering • Automation • Data & AI**
+**Artificial Intelligence · Generative AI · Data Science · Machine Learning · AI Engineering · Automation · Backend · Data & AI**
 
 ---
 
 ### 🚀 Building with AI. Growing with Data. Solving real problems.
-
-
